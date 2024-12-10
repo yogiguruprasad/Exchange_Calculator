@@ -1,0 +1,85 @@
+
+{
+    "result": {
+        "depositCountry": "United Arab Emirates",
+        "depositCurrency": "AED",
+        "depositCountryCode": "UAE",
+        "data": [
+            {
+                "currencypair": "AUD",
+                "countryCode": "AUS",
+                "exchangeRate": "0.40"
+            },
+            {
+                "currencypair": "JPY",
+                "countryCode": "JPN",
+                "exchangeRate": "42.75"
+            },
+            {
+                "currencypair": "CAD",
+                "countryCode": "CAN",
+                "exchangeRate": "0.37"
+            },
+            {
+                "currencypair": "SGD",
+                "countryCode": "SGP",
+                "exchangeRate": "0.37"
+            },
+            {
+                "currencypair": "GBP",
+                "countryCode": "GBR",
+                "exchangeRate": "0.21"
+            },
+            {
+                "currencypair": "EUR",
+                "countryCode": "FRA",
+                "exchangeRate": "0.25"
+            },
+            {
+                "currencypair": "USD",
+                "countryCode": "USA",
+                "exchangeRate": "0.27"
+            },
+            {
+                "currencypair": "INR",
+                "countryCode": "IND",
+                "exchangeRate": "22.75"
+            },
+            {
+                "currencypair": "PKR",
+                "countryCode": "PAK",
+                "exchangeRate": "75.85"
+            },
+            {
+                "currencypair": "PHP",
+                "countryCode": "PHI",
+                "exchangeRate": "15.87"
+            },
+            {
+                "currencypair": "NPR",
+                "countryCode": "NEP",
+                "exchangeRate": "36.40"
+            },
+            {
+                "currencypair": "LKR",
+                "countryCode": "SRI",
+                "exchangeRate": "82.62"
+            },
+            {
+                "currencypair": "AFN",
+                "countryCode": "AFG",
+                "exchangeRate": "19.23"
+            },
+            {
+                "currencypair": "ALL",
+                "countryCode": "ALB",
+                "exchangeRate": "25.07"
+            }
+        ],
+        "timestamp": null,
+        "errorCode": null,
+        "responseStatus": "success",
+        "responseMessage": "Workflow run was completed successfully.",
+        "reason": null
+    }
+}
